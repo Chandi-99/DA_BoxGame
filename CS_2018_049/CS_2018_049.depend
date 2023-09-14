@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1625035139 source:e:\cs\2nd year\semester 01\data structures and algorithms\assignments\cs_2018_049\src\stack_049.cpp
+	"stack_049.h"
+
+1625035139 e:\cs\2nd year\semester 01\data structures and algorithms\assignments\cs_2018_049\include\stack_049.h
+
+1625331513 source:e:\cs\2nd year\semester 01\data structures and algorithms\assignments\cs_2018_049\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_049.h"
+	<time.h>
+
+1625330809 e:\cs\2nd year\semester 01\data structures and algorithms\assignments\cs_2018_049\stack_049.h
+	<stdio.h>
+	<math.h>
+
